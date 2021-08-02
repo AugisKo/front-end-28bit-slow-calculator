@@ -21,3 +21,12 @@ async function calculator(a, b) {
 }
 
 module.exports = calculator;
+
+/*
+async function calculator(a, b) {
+  const suma = a + b;
+
+  return suma;
+}
+
+module.exports = calculator;*/
